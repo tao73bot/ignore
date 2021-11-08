@@ -1,1 +1,2 @@
 go to gf
+go fast
